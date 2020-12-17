@@ -1,6 +1,8 @@
 package com.example.dapiaoliang.model;
 
 import com.example.dapiaoliang.contract.MainContract;
+import com.example.dapiaoliang.net.INetCallBack;
+import com.example.dapiaoliang.net.RetrofitUtils;
 
 public class MainModelImpl implements MainContract.IMainModel {
 
